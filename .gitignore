@@ -1,0 +1,6 @@
+# Ignore checkpoints and data files
+.ipynb_checkpoints/
+similarity.pkl
+
+# Ignore secrets file
+.streamlit/secrets.toml

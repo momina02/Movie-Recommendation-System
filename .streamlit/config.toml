@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#990F02"  # Color for buttons and highlights
+backgroundColor = "#1C1C1C"  # Main background color
+textColor = "#990F02"  # Color for text
+base_font_size = 25
