@@ -39,7 +39,7 @@ This project is a **Movie Recommender System** that leverages content-based filt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/momina02/Movies-Recommendation-System.git
 cd your-repo-name
 ```
 
